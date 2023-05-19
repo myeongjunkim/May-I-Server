@@ -13,5 +13,5 @@
 
 ## 플로우 영상
 
-[![Watch the video](https://github.com/myeongjunkim/May-I-Server/assets/82504981/f919ccc5-3cbd-4fe1-be4d-2760583431d4.png)](https://youtu.be/vIBOzZFTQcI)
+[![Watch the video](https://github.com/myeongjunkim/May-I-Server/assets/82504981/f919ccc5-3cbd-4fe1-be4d-2760583431d4)](https://youtu.be/vIBOzZFTQcI)
 
